@@ -4,5 +4,5 @@
 # PSG1218   # PHICOMM PSG1218  # MT7620  #
 ##################################################################
 
-CFLAGS += -DBOARD_PSG1218
+CFLAGS += -DRT-AC54U
 BOARD_NUM_USB_PORTS=0
